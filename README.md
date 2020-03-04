@@ -10,8 +10,8 @@ Voici les liens de mon CV:
 > **Ivory YAHSUAN TAI**  
 > *à Paris, France*  
 > *Data Scientist  |  Étudiante en Data Science à EMLyon Business School*  
->  **E-mail:** yahsuan.tai@sciencespo.fr  
->  **Téléphone:** +33 6 10 91 14 15  
->  **LinkedIn:** https://www.linkedin.com/in/yahsuantai/  
->  **Github:** https://github.com/ivorydaae/
+> * **E-mail:** yahsuan.tai@sciencespo.fr  
+> * **Téléphone:** +33 6 10 91 14 15  
+> * **LinkedIn:** https://www.linkedin.com/in/yahsuantai/  
+> * **Github:** https://github.com/ivorydaae/
 
