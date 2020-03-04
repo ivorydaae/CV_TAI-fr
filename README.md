@@ -2,7 +2,7 @@
 
 #### Ivory YAHSUAN TAI  |  Data Scientist  |  Étudiante en Data Science à EMLyon Business School
 
-Boujour, je suis Ivory. Si vous voulez me contacter pour des opportunités professionels, n'hésitez pas de m'envoyer un mail.  
+Boujour, je suis Ivory. Si vous voulez me contacter pour des opportunités professionels, n'hésitez pas à m'envoyer un mail.  
 Voici les liens de mon CV:  
 - **CV version français**: https://ivorydaae.github.io/CV_TAI-fr/#index  
 - **CV version anglais**: https://ivorydaae.github.io/CV_TAI/#index  
