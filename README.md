@@ -12,6 +12,7 @@ Voici les liens de mon CV:
 > *Data Scientist  |  Étudiante en Data Science à EMLyon Business School*  
 > * **E-mail:** yahsuan.tai@sciencespo.fr  
 > * **Téléphone:** +33 6 10 91 14 15  
+> * **Site Web:** https://ivorydaae.github.io/yahsuan-tai/index.html  
 > * **LinkedIn:** https://www.linkedin.com/in/yahsuantai/  
 > * **Github:** https://github.com/ivorydaae/
 
